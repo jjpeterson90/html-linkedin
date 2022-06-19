@@ -1,0 +1,47 @@
+/* write styles here */
+
+
+body {
+    background-color: rgb(243,242,239)
+}
+
+#main-scaffold {
+    max-width: 1128px;
+}
+
+h6 {
+    font-size: 12px;
+}
+
+#fake-banner {
+    background: rgb(0,126,152);
+    background: linear-gradient(90deg, rgba(0,126,152,1) 0%, rgba(0,212,254,0.9093838218881303) 50%, rgba(0,126,152,1) 100%);
+}
+
+#my-face {
+    height: 150px;
+    top: 70px;
+    left: 20px;
+}
+
+#navbar-logo {
+    width: 34px;
+    height: 34px;
+    background-color:rgb(0,65,130);
+}
+
+#tiny-icon {
+    width: 2em;
+    height: 2em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+}
+
+button:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.15) 0 0);
+}
